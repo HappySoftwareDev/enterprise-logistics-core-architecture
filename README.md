@@ -5,7 +5,7 @@ This repository delivers a comprehensive technical case study and architectural 
 
 *   **Venture Lifecycle:** Deployed in 2017, the application was operated continuously in a live commercial market for seven years, processing real-time telemetry, routing multi-currency logistics, and scaling fleet operations.
 *   **The AI Engineering Phase (2024–2026):** I assumed direct control of the core architecture to refactor legacy technical debt, eliminate hardcoded dependencies, and embed robust security paradigms. This phase was accelerated using an advanced generative engineering stack (**Visual Studio Code, GitHub Copilot, Claude, GPT-4, and Grok**).
-*   **Commercial Exit:** The completely modernized infrastructure and software intellectual property were successfully acquired in **August 2026** by a private transport group expanding their automated delivery footprint.
+*   **Commercial Exit:** The completely modernized infrastructure and software intellectual property were successfully acquired in **August 2026** by a private buyer who wanted to acauire business in a technology driven transport delivery services business.
 
 *Note: To protect proprietary IP and commercial operations following the asset acquisition exit, this repository serves strictly as an isolated architectural blueprint, design pattern log, and structural schema retrospective. Code contribution history is available via verified organization repository references.*
 
