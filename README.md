@@ -13,7 +13,7 @@ This repository delivers a comprehensive technical case study and architectural 
 
 ## 📐 Platform Core Functionality & Request Lifecycle
 
-The platform operates as a cohesive digital ecosystem connecting three primary user interfaces: **Merchant Couriers Booking Platform 🔄 Drivers Registration Platform 🔄 Client Booking Platform**. 
+The platform operates as a cohesive digital ecosystem connecting three primary user interfaces: **Merchant Couriers Admin Dashboard Platform 🔄 Drivers Registration Platform 🔄 Client Booking Platform**. 
 
 The operational flow maps out through explicit system environments:
 1. **BOOKING CENTER:** Client Books Order ➡️ Address Geo-Population via Google Maps API ➡️ Client Pays For Booking (Dynamic Gateway Routing).
